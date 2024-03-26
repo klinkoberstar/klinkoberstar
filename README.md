@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kathryn (she/her) 
 
-Welcome to my GitHub! I'm a graduate student in Computational Analysis and Public Policy @ the University of Chicago.  I am interested in blending data science with public policy to drive social change, focusing on areaslike climate action, hunger relief, and equitable urban development!
+Welcome to my GitHub! I'm a graduate student in Computational Analysis and Public Policy @ the University of Chicago.  I am interested in blending data science with public policy to drive social change, focusing on areas like climate action, hunger relief, and equitable urban development!
 
 - 🌱 As a student, I’m deepening my expertise in machine learning, data management, and the practical application of data science to policy and social change.
 - 💬 Ask me about my experiences with implementing data-driven solutions in public policy, my advocacy work, or anything related to the intersection of technology and social good.
