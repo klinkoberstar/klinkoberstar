@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm a graduate student in Computational Analysis and Publi
 
 ## Kathryn's Github Stats
 
-![Kathryn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=klinkoberstar&show_icons=true&theme=vue)
+![Kathryn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=klinkoberstar&show_icons=true&theme=vue&hide_rank=true)
 
 
 
