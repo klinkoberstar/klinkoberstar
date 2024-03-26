@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋, I'm Kathryn Link-Oberstar (She/Her)
 
-<!--
-**klinkoberstar/klinkoberstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a graduate student in Computational Analysis and Public Policy @ the University of Chicago. 
 
-Here are some ideas to get you started:
+I am interested in blending data science with public policy to drive social change, focusing on areas like climate action, hunger relief, and equitable urban development!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 As a student, I’m deepening my expertise in machine learning, data management, and the practical application of data science to policy and social change.
+- 💬 Ask me about my experiences with implementing data-driven solutions in public policy, my advocacy work, or anything related to the intersection of technology and social good.
+
+## Here are some of the projects I've worked on lately:
+
+- [Climate Conversations (March 2024)](https://github.com/ehabich/climate-conversations): This project addresses the critical challenge of bridging the gap between complex scientific findings and public opinion on climate change, aiming to assist policymakers in crafting informed, society-benefiting policies. By harnessing data from Reddit's climate change discussions and academic journals, the research introduces a toolkit designed to align policymaker communication with constituents' concerns and scientific evidence. Utilizing topic modeling on Reddit discourse, the project identifies ten prominent themes, integrating moral foundations theory to tailor messaging that resonates with diverse constituents. Additionally, it employs abstractive and extractive summarization of scientific articles, providing policymakers with concise, scientific summaries relevant to each identified topic. This approach enables a nuanced understanding of public discourse and scientific consensus on climate change, offering a strategic foundation for effective policy communication. The study's integration of NLP techniques with moral foundations analysis presents a novel methodology for addressing the communicative challenges faced by policymakers in the context of climate change, demonstrating the potential for advanced computational tools to enhance public policy formulation and communication strategies.
+
+- Portland Rank Choice Voting Simulation (March 2024): This work was performed under the supervision of Moon Duchin at MGGG Redistricting Lab. In November 2024, Portland residents will elect their city council, for the first time using a proportional rank choice voting system. This study aims to navigate the complexities of this new system and district boundaries by simulating voter behavior across various scenarios that vary the number of candidates and voters' loyalty to their ideological and demographic groups. Two main voter blocs (POC and white voters) and a more detailed three-bloc scenario (POC, white progressives, and white moderates) are analyzed. The model adjusts for candidate number, candidate strength, and voter group cohesion, exploring seven key cohesion scenarios to predict electoral outcomes using [MGGG's Votekit Package](https://github.com/mggg/VoteKit). This comprehensive approach seeks to understand voter dynamics under the new ranked-choice system, providing insights into strategic campaigning and voter mobilization efforts to support the number of people of color (POC) preferred candidates elected. Our results suggest that both the number of POC candidates run and the preference of White Progressive (WP) voters are likely to be the strongest determinants of POC preferred candidate performance in the November election.
+
+- [Postgrad Job Search (January 2024)](https://github.com/klinkoberstar/postgrad-job-search) [IN PROGRESS]
+  
+- [Pedal Pals (December 2023)](https://github.com/klinkoberstar/pedal_pals): We explored the concept of distribution drift in Divvy bike ridership data, spanning from 2014 through 2019. Utilizing a random sample of one million trips (approximately 5% of the dataset), we examine trip duration trends, revealing a notable shift in distribution patterns between 2014-2017 and 2018-2019, especially during summer months. Our analysis incorporates various machine learning models including K-Nearest Neighbors (KNN), Random Forest, and Multi-Layer Perceptrons (MLP) to predict trip durations. The models are evaluated using Mean Squared Error (MSE), Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE), with adjustments for recent trends to address the observed distribution drift. The MLP model demonstrates superior performance, suggesting its effectiveness in handling high-dimensional data and adapting to non-linear patterns in the presence of distribution drift. Our findings highlight the importance of accounting for temporal changes in data distributions when developing predictive models.
+
+
+
+
