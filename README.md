@@ -1,11 +1,9 @@
 # Hi there 👋, I'm Kathryn Link-Oberstar (she/her)
 
-Welcome to my GitHub! I'm a graduate student in Computational Analysis and Public Policy @ the University of Chicago.  I am interested in blending data science with public policy to drive social change, focusing on areas like climate action, hunger relief, and equitable urban development!
+Welcome to my GitHub! I'm a graduate student in Computational Analysis and Public Policy @ the University of Chicago.  I am interested in blending data science with public policy to drive social change, focusing on areaslike climate action, hunger relief, and equitable urban development!
 
 - 🌱 As a student, I’m deepening my expertise in machine learning, data management, and the practical application of data science to policy and social change.
 - 💬 Ask me about my experiences with implementing data-driven solutions in public policy, my advocacy work, or anything related to the intersection of technology and social good.
-
-## Here are some tools I'm comfortable with:
 
 ## Here are some of the projects I've worked on lately (Check them out in *Pinned Projects* below!):
 
@@ -26,8 +24,6 @@ Welcome to my GitHub! I'm a graduate student in Computational Analysis and Publi
 - **[Sentiment of Local Newspaper Coverage on the 2023 Primary Election's Mayoral Candidates in Chicago](https://github.com/uchicago-mscapp-projects/databased_project)**: Examining the Scope and Sentiment of Local Newspaper Coverage on the 2023 Primary Election's Mayoral Candidates in Chicago. [*Read more here*](https://github.com/uchicago-mscapp-projects/databased_project/blob/ec9233f17a1cf63b676e113b3484415c2df6aad5/proj-paper.pdf)
 
 ## Kathryn's Github Stats
-
-## My GitHub Stats
 
 ![Kathryn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=klinkoberstar&show_icons=true&theme=vue)
 
