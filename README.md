@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a graduate student in Computational Analysis and Publi
 
 - **Portland Rank Choice Voting Simulation (2024)**: In collaboration with Moon Duchin and the MGGG Redistricting Lab, this study investigates the influence of Portland's new proportional rank choice voting system on its 2024 city council elections, using simulations to analyze voter behavior across different demographic and ideological groups. Utilizing [MGGG's Votekit Package](https://github.com/mggg/VoteKit), it offers strategic insights for campaigns and the election of POC candidates. (Codebase not publically available) 
 
-- **[Postgrad Job Search (January 2024)](https://github.com/klinkoberstar/postgrad-job-search)** [IN PROGRESS]: Adapted from project initially designed by [necabotheking](https://github.com/necabotheking). Scraper to find relevant job listings and deliver in a daily email using Github Automation.
+- **[Postgrad Job Search (2024)](https://github.com/klinkoberstar/postgrad-job-search)** [IN PROGRESS]: Adapted from project initially designed by [necabotheking](https://github.com/necabotheking). Scraper to find relevant job listings and deliver in a daily email using Github Automation.
   
 - **[Pedal Pals (2023)](https://github.com/klinkoberstar/pedal_pals)**: Study on Divvy bike ridership between 2014 and 2019, analyzing one million trips, uncovered notable shifts in trip durations, especially during summer months. Using models like KNN, Random Forest, and MLP, we found MLP to be most effective in forecasting trip durations, highlighting the importance of accounting for temporal data changes in predictive modeling. [*Read more here*](https://github.com/klinkoberstar/pedal_pals/blob/28cf7a6e9ec5ed1effae1599ea5273974046632d/Concept%20Drift%20and%20Predicting%20Duration%20of%20Divvy%20Bike%20Trips.pdf)
 
@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a graduate student in Computational Analysis and Publi
   
 - **[Costa Rican Poverty Prediction (2023)](https://github.com/andrewjtdunn/Costa-Rican-Household-Poverty-Level-Prediction)**: Develop machine learning models to predict poverty levels in Costa Rican households, employing techniques like oversampling and logistic regression for enhanced accuracy amid data imbalances. We also explore binary poverty categorization and discuss the model's limitations and potential areas for improvement. [*Read more here*](https://github.com/andrewjtdunn/Costa-Rican-Household-Poverty-Level-Prediction/blob/49ef849657fcd36a8d3adfe05ab418cedf85c77d/Summary%20Report.pdf)
 
-- **[Sentiment of Local Newspaper Coverage on the 2023 Primary Election's Mayoral Candidates in Chicago](https://github.com/uchicago-mscapp-projects/databased_project)**: Examining the Scope and Sentiment of Local Newspaper Coverage on the 2023 Primary Election's Mayoral Candidates in Chicago. [*Read more here*](https://github.com/uchicago-mscapp-projects/databased_project/blob/ec9233f17a1cf63b676e113b3484415c2df6aad5/proj-paper.pdf)
+- **[Sentiment of Local Newspaper Coverage on the 2023 Primary Election's Mayoral Candidates in Chicago (2023)](https://github.com/uchicago-mscapp-projects/databased_project)**: Examining the Scope and Sentiment of Local Newspaper Coverage on the 2023 Primary Election's Mayoral Candidates in Chicago. [*Read more here*](https://github.com/uchicago-mscapp-projects/databased_project/blob/ec9233f17a1cf63b676e113b3484415c2df6aad5/proj-paper.pdf)
 
 ## Kathryn's Github Stats
 
