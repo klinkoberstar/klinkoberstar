@@ -5,6 +5,8 @@ Welcome to my GitHub! I'm a graduate student in Computational Analysis and Publi
 - 🌱 As a student, I’m deepening my expertise in machine learning, data management, and the practical application of data science to policy and social change.
 - 💬 Ask me about my experiences with implementing data-driven solutions in public policy, my advocacy work, or anything related to the intersection of technology and social good.
 
+Want to chat? Connect with me on [Linkedin](https://www.linkedin.com/in/klinkobe/) or by [email](klinkoberstar@gmail.com)!
+
 ## Here are some of the projects I've worked on lately (Check them out in *Pinned Projects* below!):
 
 - **[Climate Conversations (2024)](https://github.com/ehabich/climate-conversations)**: This project leverages Reddit discussions and academic research to refine climate change communication for policymakers, creating a toolkit that aligns messaging with public concerns and scientific evidence through topic modeling and moral foundations theory. It simplifies complex scientific findings into concise summaries, using NLP and moral foundations analysis to overcome challenges in climate policy communication and enhance policy formulation. [*Read more here*](https://github.com/ehabich/climate-conversations/blob/9b53041d0f4d33a0907add9d58a602510ef8ce05/Final%20Report.pdf) & [View our final presentation](https://github.com/ehabich/climate-conversations/blob/9b53041d0f4d33a0907add9d58a602510ef8ce05/Final%20Presentation.pdf)
