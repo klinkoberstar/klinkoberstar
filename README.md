@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kathryn (she/her) 
+# Hi 👋, I'm Kathryn
 
 Welcome to my GitHub! I'm a graduate student in Computational Analysis and Public Policy @ the University of Chicago.  I am interested in blending data science with public policy to drive social change, focusing on areas like climate action, hunger relief, and equitable urban development!
 
