@@ -5,6 +5,8 @@ Welcome to my GitHub! I'm a graduate student in Computational Analysis and Publi
 - 🌱 As a student, I’m deepening my expertise in machine learning, data management, and the practical application of data science to policy and social change.
 - 💬 Ask me about my experiences with implementing data-driven solutions in public policy, my advocacy work, or anything related to the intersection of technology and social good.
 
+Check out my [resume](https://github.com/klinkoberstar/klinkoberstar/blob/c4a791f6adcc7ad250d1ff2bbf899365f7c9ce2c/Link-OberstarResume.pdf)!
+
 Want to chat? Connect with me on [Linkedin](https://www.linkedin.com/in/klinkobe/) or by [email](klinkoberstar@gmail.com)!
 
 ## Here are some of the projects I've worked on lately (Check them out in *Pinned Projects* below!):
