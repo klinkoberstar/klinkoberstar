@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kathryn Link-Oberstar (she/her)
+# Hi 👋, I'm Kathryn (she/her) 
 
 Welcome to my GitHub! I'm a graduate student in Computational Analysis and Public Policy @ the University of Chicago.  I am interested in blending data science with public policy to drive social change, focusing on areaslike climate action, hunger relief, and equitable urban development!
 
