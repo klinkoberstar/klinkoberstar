@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kathryn
 
-Check out my [resume](https://github.com/klinkoberstar/klinkoberstar/blob/c4a791f6adcc7ad250d1ff2bbf899365f7c9ce2c/Link_Oberstar_Resume.pdf)!
+Check out my [resume](https://github.com/klinkoberstar/klinkoberstar/blob/main/Link_Oberstar_Resume.pdf)!
 
 Want to chat? Connect with me on [Linkedin](https://www.linkedin.com/in/klinkobe/) or by [email](klinkoberstar@gmail.com)!
 
